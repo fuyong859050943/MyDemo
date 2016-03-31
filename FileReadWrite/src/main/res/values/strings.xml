@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">文件读写</string>
+    <string name="file_path">文件路径</string>
+    <string name="file_content">文件内容</string>
+    <string name="button_read">读取文件</string>
+    <string name="button_write">文件写入</string>
+    <string name="button_read_xml">解析xml文件</string>
+</resources>

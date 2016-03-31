@@ -1,0 +1,1 @@
+include ':app', ':myapplication2', ':demo', ':Call', ':SendMes', ':FileReadWrite', ':AndroidSQLite'

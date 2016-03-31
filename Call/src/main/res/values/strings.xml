@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">拨打电话</string>
+    <string name="textTitle">请输入手机号</string>
+    <string name="buttonText">拨号</string>
+</resources>

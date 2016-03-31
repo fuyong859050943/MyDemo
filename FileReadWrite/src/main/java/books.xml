@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <id>1</id>
+        <name>C++</name>
+        <price>12</price>
+    </book>
+    <book>
+        <id>2</id>
+        <name>Java</name>
+        <price>13</price>
+    </book>
+</books>
